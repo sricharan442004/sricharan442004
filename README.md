@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Sri Charan Reddy from India<br><br>- 📚 I'm currently learning 2nd Year Computer Science Engineering</p>
+<p align="left">I'm Sri Charan Reddy from India<br><br>- 📚 I'm currently learning 3rd Year Computer Science Engineering</p>
 
 ###
 
